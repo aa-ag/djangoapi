@@ -8,3 +8,4 @@ Experimenting with creating an API using Django/Python.
 - `conda activate djangoapi`
 - `conda install python`
 - `conda install django`
+- `pip3 install djangorestframework`
