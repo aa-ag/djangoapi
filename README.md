@@ -9,3 +9,4 @@ Experimenting with creating an API using Django/Python.
 - `conda install python`
 - `conda install django`
 - `pip3 install djangorestframework`
+- `pip3 freeze > requirements.txt`
